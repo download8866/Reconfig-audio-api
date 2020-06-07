@@ -1,4 +1,4 @@
-# xvideos
+# API
 
 [![Build Status](https://travis-ci.org/rodrigogs/xvideos.svg?branch=master)](https://travis-ci.org/rodrigogs/xvideos)
 [![Code Climate](https://codeclimate.com/github/rodrigogs/xvideos/badges/gpa.svg)](https://codeclimate.com/github/rodrigogs/xvideos)
